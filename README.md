@@ -45,6 +45,17 @@
     </section>
 </main>
 
+# Контакти
+
+* GSM: +380676631870
+* Github: <a rel="me" href="https://github.com/5HT">@5HT</a>.
+* Ukrainian Mathematical Mastodon: <a rel="me" href="https://twiukraine.com/@5HT">@5HT</a>.
+* International Mathematical Mastodon: <a rel="me" href="https://mathstodon.xyz/@5ht">@5HT</a>.
+* StackExchange: <a href="https://proofassistants.stackexchange.com/users/197/">users/197</a>.
+* ORCID: <a href="https://orcid.org/0000-0001-7127-8796">0000-0001-7127-8796</a>.
+* SCOPUS: <a href="https://www.scopus.com/authid/detail.uri?authorId=57214352719">57214352719</a>.
+* ResearchGate: <a href="https://www.researchgate.net/profile/Maksym-Sokhatskyi">Maksym-Sokhatskyi</a>.
+
 # Афіліації
 
 * Архітектурна компанія Максима Сохацького «SYNRC» <a href="https://synrc.com">synrc.com</a>, Технічний директор (2005—2025)
