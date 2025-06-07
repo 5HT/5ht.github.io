@@ -1,6 +1,3 @@
-
-<h2 style="white-space: nowrap;"><a itemprop="sameAs" content="https://orcid.org/0000-0001-7127-8796" href="https://orcid.org/0000-0001-7127-8796" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;white-space: nowrap;">Namdak Tönpa</a> </h2>
-
 <aside>
     <article>
         <section>
