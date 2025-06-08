@@ -47,7 +47,7 @@
 
 # Контакти
 
-* GSM: +380676631870
+* GSM: +380676631870.
 * Github: <a rel="me" href="https://github.com/5HT">@5HT</a>.
 * Ukrainian Mathematical Mastodon: <a rel="me" href="https://twiukraine.com/@5HT">@5HT</a>.
 * International Mathematical Mastodon: <a rel="me" href="https://mathstodon.xyz/@5ht">@5HT</a>.
